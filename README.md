@@ -53,9 +53,13 @@ I'm building a portfolio of software development and data analytics projects whi
 
 ---
 
-## 📚 Currently Learning
+## 📜 Certifications
 
-✔ GitHub Foundations • 🔄 Harvard CS50 • 🔄 Kaggle Python • 🔄 SQL • 🔄 Cloud Computing • 🔄 Machine Learning
+| Certification | Provider | Status |
+|--------------|----------|--------|
+| 🤖 Google AI Essentials | Google | ✅ Completed |
+| 📈 Google Digital Marketing & E-commerce | Google | ✅ Completed |
+| 🌱 GitHub Foundations | GitHub | 🔄 In Progress |
 
 ---
 
