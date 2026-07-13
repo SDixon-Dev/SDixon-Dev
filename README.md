@@ -136,7 +136,7 @@ Final year dissertation project exploring the use of Virtual Reality for skills 
 
 ## 📫 Connect
 
-- LinkedIn: *(add your profile link)*
+- LinkedIn: https://www.linkedin.com/in/sean-dixon-246622256/
 - GitHub: https://github.com/SDixon-Dev
 
 Thanks for stopping by!
