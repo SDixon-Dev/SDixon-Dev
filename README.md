@@ -1,134 +1,69 @@
-## Hi I'm Sean 👋
+# Hi, I'm Sean 👋
 
-**Computer Science Graduate | Software Engineer | Data Analyst**
+**Computer Science Graduate | Software Engineer | Data Analytics**
 
-I'm a Computer Science graduate with an interest in software engineering, data analytics and artificial intelligence. I'm currently expanding my technical skills through personal projects, continuous learning and professional certifications while building a portfolio that demonstrates my development journey.
+I'm building a portfolio of software development and data analytics projects while expanding my skills in cloud technologies, machine learning and artificial intelligence.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BSc (Hons) Computer Science
-- 💻 Interested in Software Engineering, Data Analytics & AI
-- 🌱 Continuously learning new technologies and best practices
-- 📍 United Kingdom
+**🎓 Education:** BSc (Hons) Computer Science (2:1)
+
+**💼 Interests:** Software Engineering • Data Analytics • Artificial Intelligence
+
+**🌱 Current Focus:** Building projects, strengthening Python & SQL, learning cloud technologies
+
+**📍 Location:** United Kingdom
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-- Python
-- Java
-- SQL
-- JavaScript
-- HTML
-- CSS
-- TypeScript
-
-### Data & Analytics
-
-- Pandas
-- NumPy
-- Matplotlib
-- IBM SPSS
-
-### Tools
-
-- Git
-- GitHub
-- Salesforce CRM
-- SAP Warehouse Management
-- Microsoft 365
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • Java • SQL • JavaScript • HTML • CSS • TypeScript |
+| **Data** | Pandas • NumPy • Matplotlib • IBM SPSS |
+| **Tools** | Git • GitHub • Salesforce • SAP WM • Microsoft 365 |
 
 ---
 
-## 🚀 Current Portfolio
+## 🚀 Portfolio
 
-### GitHub Foundations
+### Completed Projects
 
-Building practical experience with Git, GitHub workflows and version control.
-
-### Python Function Challenges
-
-A collection of introductory Python projects demonstrating problem solving, testing and clean documentation.
-
-- Gravity Equation Calculator
-- Rover Obstacle Detection
-- Octal to Decimal Converter
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🐍 Python Fundamentals | University Python programming challenges demonstrating problem solving and testing | ✅ Complete |
+| 🌱 GitHub Foundations | Git & GitHub workflows, branching, pull requests and repository management | 🔄 In Progress |
+| 📂 Git Introduction | Interactive introduction to Git version control | ✅ Complete |
 
 ---
 
-## 🚧 In Development
+### 🚧 In Development
 
-These are projects I'm actively working on and will become the centrepieces of my portfolio.
-
-### 📋 Process Automation Tool
-
-Workflow automation application designed to optimise task management through automated task sheet uploads and dashboard visualisation.
-
-**Status:** Active Development
-
----
-
-### 🎬 Personal Media Library Manager
-
-Desktop application for organising a personal film collection with advanced filtering and statistics.
-
-**Planned Features**
-
-- Genre filtering
-- BBFC ratings
-- IMDb ratings
-- Runtime
-- Collection statistics
-
-**Status:** Planning
-
----
-
-### 🎥 Movie Review Sentiment Analysis
-
-Natural Language Processing project for classifying film reviews.
-
-**Status:** Planned Portfolio Refresh
-
----
-
-### 🗄 Farmfoods Database System
-
-Relational database project demonstrating SQL design and querying.
-
-**Status:** Repository Coming Soon
-
----
-
-### 🥽 VR Skills Development System
-
-Final year dissertation project exploring the use of Virtual Reality for skills development.
-
-**Status:** Repository Coming Soon
+| Project | Description | Progress |
+|---------|-------------|----------|
+| 📋 Process Automation Tool | Workflow automation application for task sheet processing and dashboard management | 🚧 Active Development |
+| 🎬 Personal Media Library Manager | Desktop application for managing a personal film collection | 📝 Planning |
+| 🎥 Movie Review Sentiment Analysis | NLP project analysing movie reviews using Python | 📅 Planned |
+| 🗄 Farmfoods Database System | Relational SQL database with administration console | 📅 Repository Coming Soon |
+| 🥽 VR Skills Development System | Final year dissertation exploring VR-assisted skills development | 📅 Repository Coming Soon |
+| 📊 Combat Elite Data Analysis | Data cleaning and analysis project using gameplay datasets | 📅 Repository Coming Soon |
 
 ---
 
 ## 📚 Currently Learning
 
-- GitHub Foundations
-- Harvard CS50
-- Python
-- SQL
-- Cloud Computing
-- Machine Learning
-- Artificial Intelligence
+✔ GitHub Foundations • 🔄 Harvard CS50 • 🔄 Kaggle Python • 🔄 SQL • 🔄 Cloud Computing • 🔄 Machine Learning
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
 - Build a professional software engineering portfolio
-- Expand cloud computing knowledge
-- Develop machine learning projects
+- Complete cloud certifications
+- Develop AI and machine learning projects
 - Contribute to open-source software
 - Continue learning modern development practices
 
@@ -136,10 +71,11 @@ Final year dissertation project exploring the use of Virtual Reality for skills 
 
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/in/sean-dixon-246622256/
-- GitHub: https://github.com/SDixon-Dev
+**LinkedIn:** https://www.linkedin.com/in/sean-dixon-246622256/
 
-Thanks for stopping by!
+**GitHub:** https://github.com/SDixon-Dev
+
+Thanks for visiting my profile!
 
 <!--
 **SDixon-Dev/SDixon-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
