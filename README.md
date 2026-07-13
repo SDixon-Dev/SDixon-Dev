@@ -1,10 +1,8 @@
 ## Hi I'm Sean 👋
 
-# Hi, I'm Sean 👋
+**Computer Science Graduate | Software Engineer | Data Analyst**
 
-**Computer Science Graduate | Aspiring Software Engineer | Data Analytics Enthusiast**
-
-I'm a Computer Science graduate from the UK with an interest in software engineering, data analytics and artificial intelligence. I'm currently expanding my technical skills through personal projects, continuous learning and professional certifications while building a portfolio that demonstrates my development journey.
+I'm a Computer Science graduate with an interest in software engineering, data analytics and artificial intelligence. I'm currently expanding my technical skills through personal projects, continuous learning and professional certifications while building a portfolio that demonstrates my development journey.
 
 ---
 
