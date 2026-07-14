@@ -35,6 +35,7 @@ I'm building a portfolio of software development and data analytics projects whi
 | Project | Description | Status |
 |---------|-------------|--------|
 | 🐍 Python Fundamentals | Python programming challenges demonstrating problem solving and testing | ✅ Complete |
+| ☕ Java Fundamentals | Java programming challenges demonstrating object-oriented programming, testing and core language concepts | 🔄 In Progress |
 | 🌱 GitHub Foundations | Git & GitHub workflows, branching, pull requests and repository management | 🔄 In Progress |
 | 📂 Git Introduction | Interactive introduction to Git version control | ✅ Complete |
 
