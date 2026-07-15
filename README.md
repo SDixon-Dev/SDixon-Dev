@@ -59,7 +59,7 @@ I'm building a portfolio of software development and data analytics projects whi
 | Certification | Provider | Status |
 |--------------|----------|--------|
 | 🤖 Google AI Essentials | Coursera | ✅ Completed |
-| 📈 Digital Marketing | Hupspot | ✅ Completed |
+| 📈 Digital Marketing | Hubspot | ✅ Completed |
 | 🌱 GitHub Foundations | GitHub | 🔄 In Progress |
 
 ---
