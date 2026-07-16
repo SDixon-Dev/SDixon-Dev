@@ -1,6 +1,6 @@
 # Hi, I'm Sean 👋
 
-**Computer Science Graduate | Software Engineer | Data Analytics**
+**Computer Science Graduate | Software Engineer | Data Analyst**
 
 I'm building a portfolio of software development and data analytics projects while expanding my skills in cloud technologies, machine learning and artificial intelligence.
 
