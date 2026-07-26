@@ -45,9 +45,9 @@ I'm building a portfolio of software development and data analytics projects whi
 
 | Project | Description | Progress |
 |---------|-------------|----------|
-| 📋 Process Automation Tool | Workflow automation application for task sheet processing and dashboard management | 🚧 Active Development |
+| 📋 Process Automation Tool | Workflow automation application for task sheet processing and dashboard management | 📅 Repository Coming Soon |
 | 🎬 Personal Media Library Manager | Desktop application for managing a personal film collection | 📝 Planning |
-| 🎥 Movie Review Sentiment Analysis | NLP project analysing movie reviews using Python | 📅 Planned |
+| 🎥 Movie Review Sentiment Analysis | NLP project analysing movie reviews using Python | 🚧 Active Development |
 | 🗄 Farmfoods Database System | Relational SQL database with administration console | 📅 Repository Coming Soon |
 | 🥽 VR Skills Development System | Final year dissertation exploring VR-assisted skills development | 📅 Repository Coming Soon |
 | 📊 Combat Elite Data Analysis | Data cleaning and analysis project using gameplay datasets | 📅 Repository Coming Soon |
