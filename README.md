@@ -78,8 +78,6 @@ I'm building a portfolio of software development and data analytics projects whi
 
 **LinkedIn:** https://www.linkedin.com/in/sean-dixon-246622256/
 
-**GitHub:** https://github.com/SDixon-Dev
-
 Thanks for visiting my profile!
 
 <!--
