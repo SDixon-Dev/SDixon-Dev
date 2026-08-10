@@ -39,6 +39,7 @@ I'm building a portfolio of software development and data analytics projects whi
 | 🌱 GitHub Foundations | Git & GitHub workflows, branching, pull requests and repository management | 🔄 In Progress |
 | 📂 Git Introduction | Interactive introduction to Git version control | ✅ Complete |
 | 🎥 Movie Review Sentiment Analysis | NLP project analysing movie reviews using Python | ✅ Complete |
+| 🥽 VR Skills Development System | Final year dissertation exploring VR-assisted skills development | ✅ Complete |
 
 ---
 
@@ -49,7 +50,6 @@ I'm building a portfolio of software development and data analytics projects whi
 | 📋 Process Automation Tool | Workflow automation application for task sheet processing and dashboard management | 📅 Repository Coming Soon |
 | 🎬 Personal Media Library Manager | Desktop application for managing a personal film collection | 📝 Planning |
 | 🗄 Farmfoods Database System | Relational SQL database with administration console | 📅 Repository Coming Soon |
-| 🥽 VR Skills Development System | Final year dissertation exploring VR-assisted skills development | 📅 Repository Coming Soon |
 | 📊 Combat Elite Data Analysis | Data cleaning and analysis project using gameplay datasets | 📅 Repository Coming Soon |
 
 ---
