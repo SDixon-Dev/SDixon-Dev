@@ -40,6 +40,7 @@ I'm building a portfolio of software development and data analytics projects whi
 | 📂 Git Introduction | Interactive introduction to Git version control | ✅ Complete |
 | 🎥 Movie Review Sentiment Analysis | NLP project analysing movie reviews using Python | ✅ Complete |
 | 🥽 VR Skills Development System | Final year dissertation exploring VR-assisted skills development | ✅ Complete |
+| 🌐 Responsive front-end Website | HTML, CSS & JavaScript website designed to specification | ✅ Complete |
 
 ---
 
