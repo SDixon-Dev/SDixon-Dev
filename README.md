@@ -38,9 +38,11 @@ I'm building a portfolio of software development and data analytics projects whi
 | ☕ Java Fundamentals | Java programming challenges demonstrating object-oriented programming, testing and core language concepts | ✅ Complete |
 | 🌱 GitHub Foundations | Git & GitHub workflows, branching, pull requests and repository management | 🔄 In Progress |
 | 📂 Git Introduction | Interactive introduction to Git version control | ✅ Complete |
+| 📊 Python Problem Sets | Python challenge tasks covering programming fundamentals, data analysis and visualisation | ✅ Complete |
 | 🎥 Movie Review Sentiment Analysis | NLP project analysing movie reviews using Python | ✅ Complete |
 | 🥽 VR Skills Development System | Final year dissertation exploring VR-assisted skills development | ✅ Complete |
 | 🌐 Responsive front-end Website | HTML, CSS & JavaScript website designed to specification | ✅ Complete |
+| 📝 Java Word Processor | Java Swing word processor demonstrating OOP, file handling and text editing functionality | ✅ Complete |
 
 ---
 
